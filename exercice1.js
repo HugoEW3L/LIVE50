@@ -18,6 +18,7 @@
    {id: 2351, customer: 67, product: 8, timestamp: "15919135151", price: "125.99"},
  ];
 
+//Commentaire 
  function JulyReduc(ordersArray){
    for(let i = 0; i < ordersArray.length; i++) {
      let date = (new Date((ordersArray[0].timestamp)*1000));
