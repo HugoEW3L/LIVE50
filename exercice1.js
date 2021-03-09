@@ -28,7 +28,7 @@
      }
    }
  }
-
+//Ceci est un commentaire
  JulyReduc(ordersArray);
 
  console.log(ordersArray);
